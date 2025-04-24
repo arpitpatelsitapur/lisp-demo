@@ -6,6 +6,18 @@ This repository contains a collection of basic LISP programs to help beginners u
 
 **LISP (LISt Processing)** is one of the oldest high-level programming languages, dating back to 1958. It's known for its unique syntax based on S-expressions and its powerful capabilities in functional programming, symbolic computation, and artificial intelligence applications.
 
+## Why I Chose Common Lisp
+
+I selected Common Lisp for this demo repository for several compelling reasons:
+
+- **Learning Experience**: Common Lisp offers a unique programming paradigm that enhances problem-solving skills and expands programming perspective
+- **Powerful Expressiveness**: The language allows complex ideas to be expressed clearly and concisely
+- **Interactive Development**: The REPL-driven development workflow enables rapid prototyping and experimentation
+- **Symbolic Computation**: Common Lisp excels at manipulating symbols and lists, making it ideal for certain algorithmic problems
+- **Rich History**: Learning a language with deep historical significance in computer science provides valuable context for modern programming practices
+
+My journey with Common Lisp began with exploring functional programming patterns, and I've found its flexibility particularly useful for implementing the demonstration programs in this repository. Despite the initial learning curve, the elegant way Common Lisp handles list processing and symbolic computation makes it an excellent language for these particular examples.
+
 ## Installation
 
 ### macOS
